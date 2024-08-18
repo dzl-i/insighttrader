@@ -1,0 +1,8 @@
+pytest
+coverage
+boto3
+pandas
+nltk
+textblob
+scikit-learn
+lxml

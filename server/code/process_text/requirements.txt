@@ -1,0 +1,9 @@
+boto3
+pandas
+nltk
+textblob
+psutil
+aws-xray-sdk
+scikit-learn
+aws-psycopg2
+pytz

@@ -1,0 +1,14 @@
+# Python environment
+env
+
+# VSCode settings
+.vscode
+
+# Datasets
+datasets
+
+__pycache__
+
+# Coverage
+htmlcov
+.coverage

@@ -1,0 +1,218 @@
+{
+  "data_source": "Australian Financial Review",
+  "dataset_type": "News_Articles",
+  "dataset_id": "afr",
+  "time_object": {
+    "timestamp": "2018-12-21T05:57:13+00:00",
+    "timezone": "GMT+11"
+  },
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6ynf5tzvx9zyilrw7m6",
+        "author": "Jacob Greber and David Marin-Guzman",
+        "headline": "'Real living wage' may cost jobs",
+        "section": "News",
+        "publication_date": "2018-01-31",
+        "page_no": "9",
+        "classifications": [
+          "Job market",
+          "Income",
+          "Economic policy"
+        ],
+        "text": "Hiking the minimum wage - or even switching to a so-called \"living wage\" - would weigh on jobs growth, warn economists who say business shouldn't be given a role better performed by the welfare system. With Labor flagging plans to hike the baseline wage rate for Australian workers, Opposition leader Bill Shorten based his call for change on the suggestion that \"the minimum wage is no longer a living wage\". \"Our goal should be a real living wage, effectively raising the pay of all Australians, pa"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yme38jr04g1hr9tz7m6",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "Bigwigs chase UTA rights",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-29",
+        "page_no": "16",
+        "classifications": [
+          "Stocks",
+          "Stock exchange",
+          "Capital market"
+        ],
+        "text": "The $25 million question overhanging Australia's infrastructure set is who will get the rights to manage Perth Airport, Melbourne Airport and Electranet investor, Utilities Trust of Australia. It's understood the race for UTA's management rights is heating up, after UTA's investors opted to go to market with a tender for a new manager following the goings-on at Westpac Banking Corp's Hastings Funds Management. Industry types reckon UTA's management rights are worth about $25 million a year, or r"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yme38ek4dkrtn0n7m5",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "NAB to spearhead the giant L1 Capital fund IPO",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-29",
+        "page_no": "16",
+        "classifications": [
+          "Stocks",
+          "Investment bank",
+          "Financial service"
+        ],
+        "text": "Melbourne-based fund manager L1 Capital appears set to launch Australia's biggest raising for a new listed investment company, having signed a giant broking syndicate to sell the deal to potential investors. Street Talk understands L1 Capital has mandated National Australia Bank to oversee the raising as lead arranger, and tapped retail brokers Crestone, Morgans, Ord Minnett, Taylor Collison and Wilsons as joint lead managers. Also set to sell the deal will be co-managers Bell Potter, Hunter Cap"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yme386p90z43b577m5",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "Big private equity test drives smash repairer AMA Group",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-29",
+        "page_no": "16",
+        "classifications": [
+          "Sales",
+          "Holding",
+          "Financial service"
+        ],
+        "text": "Listed smash repairer AMA Group is believed to be in the crosshairs of a private equity suitor. Street Talk understands global buyout giant Blackstone is running due diligence on the panel repairs, alloy bullbars and electrical automotive cables company, having earlier lobbed an indicative proposal. Sources said Blackstone's primary interest was AMA Group's vehicle panel repairs business, which has grown rapidly to own 93 vehicle repairs centres around the country and reported $323.8 million in "
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yme385nflg1me82p7m6",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "Bank disrupter Prospa readies first pitch to fund managers",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-29",
+        "page_no": "16",
+        "classifications": [
+          "Financial service",
+          "Investment bank",
+          "Stocks"
+        ],
+        "text": "Privately-owned small business lender Prospa will start its search for new investors in coming weeks, when it fronts local and offshore fund managers ahead of a planned initial public offering. It's understood Macquarie Capital and UBS's equities desks have been booking fundies to meet Prospa management in Sydney, Melbourne, Auckland and Hong Kong during the first week of February, for a non-deal roadshow. Prospa's expected to be pitched as the first true major bank disrupter in small business l"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yme37z5zsjqta4i7m6",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "Westpac set to light up hybrid market",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-29",
+        "page_no": "16",
+        "classifications": [
+          "Stocks",
+          "Stock exchange",
+          "Financial service"
+        ],
+        "text": "The big banks are set to rekindle their love affair with hybrid securities, and are expected to tap investors for fresh funds as early as next week. Street Talk understands Westpac Banking Corporation is putting the finishing touches on a $1 billion to $1.5 billion hybrid securities raising, which would be the first major raising in front of investors this year. Sources said Westpac was preparing to launch the deal as early as February 5, and had already lined up a syndicate of lead managers and"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6ykc5lofpi1wsn91jj1",
+        "author": "Danny.McGrath",
+        "headline": "What moved the market",
+        "section": "Smart Investor",
+        "publication_date": "2018-01-25",
+        "page_no": "51",
+        "classifications": [
+          "Exchange rate",
+          "Economic forecast",
+          "Issue bank"
+        ],
+        "text": "Survey surprise The Westpac-Melbourne Institute Leading Index showed a six-month annualised growth rate reading of +1.41 per cent in December, up from +0.66 per cent in November. The index indicates the likely pace of economic activity relative to trend three to nine months into the future. \"This is a very strong above-trend reading,\" said Westpac chief economist Bill Evans. Oil on fire Oil closed at its highest since December 2014 as signs mount that dwindling US stockpiles are contributing to "
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6ykc5layqpdowxdmjj1",
+        "author": "Danny.McGrath",
+        "headline": "Stock watch",
+        "section": "Smart Investor",
+        "publication_date": "2018-01-25",
+        "page_no": "51",
+        "classifications": [
+          "Turnover",
+          "Profit",
+          "Loss"
+        ],
+        "text": "SomnoMed Shares in sleep-related breathing disorders solutions firm SomnoMed dropped 13.8 per cent to $3.37. The firm reported second-quarter revenue growth of 45 per cent to $18.5 million, with direct sales to customers seeing good growth but sales to licensees falling sharply compared to a year ago. Core businesses generated a first-half EBITDA of $1 million, while the firm's RSS unit saw start-up losses of $4 million. Together those results saw the firm produce an overall EBITDA loss for the "
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6yjbf9xopgxugtqkjj2",
+        "author": "Sarah Thompson, Anthony Macdonald and Joyce Moullakis",
+        "headline": "Local fund managers pile into Canadian cobalt IPO",
+        "section": "Market Wrap",
+        "publication_date": "2018-01-23",
+        "page_no": "14",
+        "classifications": [
+          "Stocks",
+          "Stock exchange",
+          "Capital market"
+        ],
+        "text": "Given lithium, cobalt and graphite floats have minted a number of paper millionaires in the last few years, it's no surprise institutions are piling into the latest battery initial public offering. Cobalt will be the focus when Battery Minerals lists in Canada in March, which might be a good thing given the rout in lithium stocks in recent days. While Canadian brokers BMO Bank of Montreal and Eight Capital are tipped to be lead underwriters on the float, Sydney-based advisory boutique Hunter Cap"
+      }
+    }
+  ]
+}

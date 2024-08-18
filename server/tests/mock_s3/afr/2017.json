@@ -1,0 +1,81 @@
+{
+  "data_source": "Australian Financial Review",
+  "dataset_type": "News_Articles",
+  "dataset_id": "afr",
+  "time_object": {
+    "timestamp": "2019-09-06T07:35:37+00:00",
+    "timezone": "GMT+11"
+  },
+  "events": [
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6tfvj3tyh041nj801lfw",
+        "author": null,
+        "headline": null,
+        "section": "News",
+        "publication_date": "2017-01-31",
+        "page_no": "1",
+        "classifications": [
+          "Investment fund",
+          "Financial service",
+          "Manager"
+        ],
+        "text": "AMP's plan to be a super champion Exclusive | AMP will aggressively pursue corporate superannuation mandates and target retirement savers looking to beat the changes to contribution caps as part of a plan to generate cashflow for the ailing business and return it to growth. Companies p13"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6tfvj3oijk1c35rblfy",
+        "author": "Lucille Keen",
+        "headline": "Diamonds aren't forever at Kozminsky",
+        "section": "News",
+        "publication_date": "2017-01-31",
+        "page_no": "1",
+        "classifications": [
+          "Labour/Occupations/Jewellers",
+          "Industry/Retail & Wholesale",
+          "Culture/Antiques",
+          "Culture/Auctions"
+        ],
+        "text": "It's a Melbourne institution frequented for more than a century by the city's wealthy establishment, by prime ministers, business leaders and visiting Hollywood movie stars. It's jewellery, silver antiques, objets d'art and other shining wares were bought to mark life's great moments: engagements, weddings, 21st birthday parties and other special events. Now after more than 165 years in operation, Melbourne's oldest jewellery house, Kozminsky, will close its Bourke Street doors on February 10. A"
+      }
+    },
+    {
+      "time_object": {
+        "timestamp": "",
+        "duration": 0,
+        "duration_unit": "second",
+        "timezone": "GMT+11"
+      },
+      "event_type": "article",
+      "attribute": {
+        "guid": "doc6tfvj2zswoy1f0m64lfw",
+        "author": null,
+        "headline": "Bunnings to test Britain's DIY market",
+        "section": "News",
+        "publication_date": "2017-01-31",
+        "page_no": "1",
+        "classifications": [
+          "Retail industry",
+          "Internet",
+          "Marketing strategy"
+        ],
+        "text": "Exclusive | Bunnings faces it first big test in Britain when the do-it-yourself chain opens in Hertfordshire this week. The store opens in a market where cheap tradespeople from eastern Europe have created a \"do it for me\" culture and there is a lack of interest among young people in tackling home improvement projects. Companies p16"
+      }
+    }
+  ]
+}
